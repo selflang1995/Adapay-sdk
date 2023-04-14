@@ -1,6 +1,6 @@
 {
-    "name": "your-vendor/your-package",
-    "description": "Your package description",
+    "name": "topzmall/adapay-sdk",
+    "description": "topzmall Adapay SDK",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "YourVendor\\YourPackage\\": "src/"
+            "AdaPaySdk\\": "src/"
         }
     }
 }
