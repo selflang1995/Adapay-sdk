@@ -3,6 +3,7 @@
     "description": "topzmall Adapay SDK",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Your Name",
@@ -14,8 +15,8 @@
             "AdaPaySdk\\": "src/"
         }
     },
-	"require": {
-		"php": ">=5.6",
+    "require": {
+        "php": ">=5.6",
         "another-vendor/package": "1.*"
-	}
+    }
 }
